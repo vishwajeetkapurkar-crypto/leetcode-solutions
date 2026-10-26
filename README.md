@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,5 +36,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2348-number-of-zero-filled-subarrays](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2409-count-days-spent-together](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
