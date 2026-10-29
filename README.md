@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2409-count-days-spent-together](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Queue
 |  |
 | ------- |
@@ -41,4 +42,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2348-number-of-zero-filled-subarrays](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2409-count-days-spent-together](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
