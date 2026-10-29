@@ -1,9 +1,8 @@
 class Solution {
     public int minimumPushes(String word) {
-        int n = word.length();
         int totalPushes = 0;
         
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i <  word.length(); i++) {
             totalPushes += (i / 8) + 1;
         }
         
