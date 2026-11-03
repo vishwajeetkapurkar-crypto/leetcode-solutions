@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2409-count-days-spent-together](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Greedy
 |  |
 | ------- |
