@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [2409-count-days-spent-together](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Queue
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
