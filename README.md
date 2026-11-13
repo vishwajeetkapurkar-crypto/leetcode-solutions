@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1267-count-servers-that-communicate](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,4 +72,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/vishwajeetkapurkar-crypto/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
